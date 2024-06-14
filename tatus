@@ -1,0 +1,45 @@
+[33mcommit b63f952c1b9aa64edf42407824829df38f3ea6a7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: anstsrnv <w2603114@gmail.com>
+Date:   Fri Jun 14 12:51:19 2024 +0300
+
+    update README.md
+
+[33mcommit bbeb4a90470773ae2b77ed43b6f93009fa32b404[m
+Author: anstsrnv <w2603114@gmail.com>
+Date:   Fri Jun 14 12:27:16 2024 +0300
+
+    Revert "del PEOPLE"
+    
+    This reverts commit 188cdb4803362e1627ada9e4e82204d4c8b7ea6c.
+
+[33mcommit 188cdb4803362e1627ada9e4e82204d4c8b7ea6c[m
+Author: anstsrnv <w2603114@gmail.com>
+Date:   Fri Jun 14 12:26:31 2024 +0300
+
+    del PEOPLE
+
+[33mcommit 258ddbb0eaa16772ae57d5980df08bb76b1a6ea4[m
+Author: anstsrnv <w2603114@gmail.com>
+Date:   Fri Jun 14 12:12:04 2024 +0300
+
+    Revert "add NEW.md"
+    
+    This reverts commit 98a26fdf8de7e855ea384d7805fef20dcca04ccd.
+
+[33mcommit 98a26fdf8de7e855ea384d7805fef20dcca04ccd[m
+Author: anstsrnv <w2603114@gmail.com>
+Date:   Thu Jun 13 14:19:51 2024 +0300
+
+    add NEW.md
+
+[33mcommit a95dad745b153202a5c1c72c0ebe98aea756cb1a[m
+Author: anstsrnv <w2603114@gmail.com>
+Date:   Thu Jun 13 12:29:40 2024 +0300
+
+    add PEOPLE.md
+
+[33mcommit 7e02d99e39f06a0d72b59a0f99fa8666c395c433[m
+Author: anstsrnv <w2603114@gmail.com>
+Date:   Thu Jun 13 12:27:42 2024 +0300
+
+    add README.md
